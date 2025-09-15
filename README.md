@@ -10,7 +10,7 @@
 - Mobile responsive
 
 ## 🔗 Live Demo
-[View Project](https://your-landing.vercel.app)
+[View Project](https://business-landing-page-mu.vercel.app)
 
 ## 🖼️ Screenshot
 [Project Screenshot](https://raw.githubusercontent.com/kkhanfaizz/business-landing-page/main/businessLandingPage.png)
