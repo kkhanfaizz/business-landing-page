@@ -12,7 +12,7 @@ export default function LandingPage() {
           <a href="#contact" className="hover:text-blue-600">Contact</a>
         </nav>
         <button className="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700">Get Started</button>
-      </header>
+      </header> 
 
       {/* Hero Section */}
       <section className="text-center py-20 bg-gradient-to-r from-blue-50 to-blue-100">
